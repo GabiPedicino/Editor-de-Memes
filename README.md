@@ -7,7 +7,7 @@ Al final del poyecto encontraras un botón para descargar el meme que creaste.Es
 
 Para comenzar has click en https://lupe-accareddu.github.io/Editor-de-Memes/
 
-## Este repositorio es mantenida por:
+## Este repositorio es mantenido por:
 
 * **Guadalupe Accareddu**  - [Lupe-Accareddu](https://github.com/Lupe-Accareddu)
 * **María Teresa Bravo** - [maritebr](https://github.com/maritebr)
