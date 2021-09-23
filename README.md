@@ -1,9 +1,9 @@
 # Editor-de-Memes
 Proyecto Generador de Memes del grupo 4 de la comisión 10 de Ada.
 
-Presentamos en este proyeecto un editor de memes en el cual a traves de la URL de una imagen podrás crear los memes más originales y divertidos. Dandole diferentes estilos,propiedades y textos.
+Presentamos en este proyecto un editor de memes en el cual, a través de la URL de una imagen, podrás crear los memes más originales y divertidos. Dándole diferentes estilos,propiedades y textos.
 Este proyecto será actualizado regularmente con nuevos filtros y diferentes presentaciones para nuestros memes.
-Al final del poyecto encontraras un botón para descargar el meme que creaste.Es en formato jpg. 
+Al final del poyecto encontrarás un botón para descargar el meme que creaste. Es en formato jpg. 
 
 Para comenzar has click en https://lupe-accareddu.github.io/Editor-de-Memes/
 
